@@ -1,1 +1,0 @@
-This is cloned from http://svn.code.sf.net/p/raw-yuvplayer/code/trunk
